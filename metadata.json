@@ -1,0 +1,6 @@
+{
+  "name": "CYBERTRACE",
+  "description": "AI-Powered Cybersecurity Incident Response Platform. Detect threats, analyze suspicious digital content, manage security incidents, preserve digital evidence, and report online fraud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
